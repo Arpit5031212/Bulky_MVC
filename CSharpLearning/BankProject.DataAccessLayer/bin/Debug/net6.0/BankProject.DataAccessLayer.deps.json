@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankProject.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "BankProject.Entities": "1.0.0",
+          "BankProject.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "BankProject.DataAccessLayer.dll": {}
+        }
+      },
+      "BankProject.Entities/1.0.0": {
+        "dependencies": {
+          "BankProject.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "BankProject.Entities.dll": {}
+        }
+      },
+      "BankProject.Exceptions/1.0.0": {
+        "runtime": {
+          "BankProject.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankProject.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

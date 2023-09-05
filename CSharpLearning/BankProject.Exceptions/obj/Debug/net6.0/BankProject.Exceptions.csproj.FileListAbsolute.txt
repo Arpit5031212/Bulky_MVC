@@ -1,0 +1,12 @@
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\bin\Debug\net6.0\BankProject.Exceptions.deps.json
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\bin\Debug\net6.0\BankProject.Exceptions.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\bin\Debug\net6.0\BankProject.Exceptions.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\BankProject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\BankProject.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\BankProject.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\BankProject.Exceptions.AssemblyInfo.cs
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\BankProject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\BankProject.Exceptions.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\refint\BankProject.Exceptions.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\BankProject.Exceptions.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Exceptions\obj\Debug\net6.0\ref\BankProject.Exceptions.dll

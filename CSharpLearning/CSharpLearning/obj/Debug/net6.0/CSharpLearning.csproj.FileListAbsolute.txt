@@ -1,0 +1,15 @@
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.exe
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.deps.json
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.runtimeconfig.json
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.dll
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\bin\Debug\net6.0\CSharpLearning.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.csproj.AssemblyReference.cache
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.AssemblyInfoInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.AssemblyInfo.cs
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.dll
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\refint\CSharpLearning.dll
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\CSharpLearning.genruntimeconfig.cache
+C:\Users\Arpit\source\repos\CSharpLearning\CSharpLearning\obj\Debug\net6.0\ref\CSharpLearning.dll

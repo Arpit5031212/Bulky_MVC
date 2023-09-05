@@ -1,0 +1,15 @@
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\bin\Debug\net6.0\BankProject.Entities.deps.json
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\bin\Debug\net6.0\BankProject.Entities.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\bin\Debug\net6.0\BankProject.Entities.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\bin\Debug\net6.0\BankProject.Exceptions.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\bin\Debug\net6.0\BankProject.Exceptions.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.csproj.AssemblyReference.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.AssemblyInfo.cs
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.csproj.CopyComplete
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\refint\BankProject.Entities.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\BankProject.Entities.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.Entities\obj\Debug\net6.0\ref\BankProject.Entities.dll

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankProject.Configuration\BankProject.Configuration.csproj" />
+    <ProjectReference Include="..\BankProject.DataAccessLayer\BankProject.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\BankProject.Entities\BankProject.Entities.csproj" />
+    <ProjectReference Include="..\BankProject.Exceptions\BankProject.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

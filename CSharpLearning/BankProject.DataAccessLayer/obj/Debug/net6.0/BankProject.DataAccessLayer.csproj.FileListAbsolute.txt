@@ -1,0 +1,17 @@
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\bin\Debug\net6.0\BankProject.DataAccessLayer.deps.json
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\bin\Debug\net6.0\BankProject.DataAccessLayer.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\bin\Debug\net6.0\BankProject.DataAccessLayer.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\bin\Debug\net6.0\BankProject.Entities.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\bin\Debug\net6.0\BankProject.Exceptions.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\bin\Debug\net6.0\BankProject.Entities.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\bin\Debug\net6.0\BankProject.Exceptions.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.csproj.CopyComplete
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\refint\BankProject.DataAccessLayer.dll
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\BankProject.DataAccessLayer.pdb
+C:\Users\Arpit\source\repos\CSharpLearning\BankProject.DataAccessLayer\obj\Debug\net6.0\ref\BankProject.DataAccessLayer.dll

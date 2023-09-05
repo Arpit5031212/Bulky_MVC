@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankProject.Presentation/1.0.0": {
+        "dependencies": {
+          "BankProject.BusinessLogicLayer": "1.0.0",
+          "BankProject.Configuration": "1.0.0",
+          "BankProject.Entities": "1.0.0",
+          "BankProject.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "BankProject.Presentation.dll": {}
+        }
+      },
+      "BankProject.BusinessLogicLayer/1.0.0": {
+        "dependencies": {
+          "BankProject.Configuration": "1.0.0",
+          "BankProject.DataAccessLayer": "1.0.0",
+          "BankProject.Entities": "1.0.0",
+          "BankProject.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "BankProject.BusinessLogicLayer.dll": {}
+        }
+      },
+      "BankProject.Configuration/1.0.0": {
+        "runtime": {
+          "BankProject.Configuration.dll": {}
+        }
+      },
+      "BankProject.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "BankProject.Entities": "1.0.0",
+          "BankProject.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "BankProject.DataAccessLayer.dll": {}
+        }
+      },
+      "BankProject.Entities/1.0.0": {
+        "dependencies": {
+          "BankProject.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "BankProject.Entities.dll": {}
+        }
+      },
+      "BankProject.Exceptions/1.0.0": {
+        "runtime": {
+          "BankProject.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankProject.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject.Configuration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

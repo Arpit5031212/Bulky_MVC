@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BankProject.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BankProject.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BankProject.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankProject.Entities.dll": {}
+        }
+      },
+      "BankProject.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BankProject.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankProject.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankProject.Entities/1.0.0": {
+      "type": "project",
+      "path": "../BankProject.Entities/BankProject.Entities.csproj",
+      "msbuildProject": "../BankProject.Entities/BankProject.Entities.csproj"
+    },
+    "BankProject.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../BankProject.Exceptions/BankProject.Exceptions.csproj",
+      "msbuildProject": "../BankProject.Exceptions/BankProject.Exceptions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BankProject.Entities >= 1.0.0",
+      "BankProject.Exceptions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Arpit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Arpit\\source\\repos\\CSharpLearning\\BankProject.DataAccessLayer\\BankProject.DataAccessLayer.csproj",
+      "projectName": "BankProject.DataAccessLayer",
+      "projectPath": "C:\\Users\\Arpit\\source\\repos\\CSharpLearning\\BankProject.DataAccessLayer\\BankProject.DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\Arpit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arpit\\source\\repos\\CSharpLearning\\BankProject.DataAccessLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Arpit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Arpit\\source\\repos\\CSharpLearning\\BankProject.Entities\\BankProject.Entities.csproj": {
+              "projectPath": "C:\\Users\\Arpit\\source\\repos\\CSharpLearning\\BankProject.Entities\\BankProject.Entities.csproj"
+            },
+            "C:\\Users\\Arpit\\source\\repos\\CSharpLearning\\BankProject.Exceptions\\BankProject.Exceptions.csproj": {
+              "projectPath": "C:\\Users\\Arpit\\source\\repos\\CSharpLearning\\BankProject.Exceptions\\BankProject.Exceptions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
